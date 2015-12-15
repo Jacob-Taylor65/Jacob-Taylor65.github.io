@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Jacob-Taylor65.github.io
+title: Jacob-Taylor65
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 10
